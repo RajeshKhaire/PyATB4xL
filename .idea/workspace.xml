@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70ff8634-cfd3-4097-b94a-3f2688c1a331" name="Changes" comment="Lab001 Added">
+    <list default="true" id="70ff8634-cfd3-4097-b94a-3f2688c1a331" name="Changes" comment="Lab001">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Lab001.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_08082024/Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_08082024/Lab002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRC/ex_13082024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_13082024/Lab002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RajeshKhaire"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RajeshKhaire/PyATB4xL.git",
+    "accountId": "81709bea-584b-414d-b81b-78c0fe3a516c"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
@@ -40,9 +54,17 @@
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RunManager">
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab001" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -59,6 +81,30 @@
       <option name="presentableId" value="Default" />
       <updated>1724605619704</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lab001">
+      <option name="closed" value="true" />
+      <created>1724688796869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724688796869</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab001" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab001" />
   </component>
 </project>
