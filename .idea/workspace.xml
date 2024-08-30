@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70ff8634-cfd3-4097-b94a-3f2688c1a331" name="Changes" comment="Lab004" />
+    <list default="true" id="70ff8634-cfd3-4097-b94a-3f2688c1a331" name="Changes" comment="Lab004">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_08082024/Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_08082024/Lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_08082024/Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_08082024/Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_08082024/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_08082024/Lab011.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +56,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.Lab001.executor": "Debug",
+    "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
@@ -56,6 +64,9 @@
     "Python.Lab006.executor": "Run",
     "Python.Lab007.executor": "Run",
     "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
