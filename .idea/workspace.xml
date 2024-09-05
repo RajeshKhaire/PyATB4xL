@@ -5,24 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70ff8634-cfd3-4097-b94a-3f2688c1a331" name="Changes" comment="File Added">
-      <change afterPath="$PROJECT_DIR$/SRC/ex_13082024/Lab014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_13082024/Lab015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_13082024/Lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_13082024/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_13082024/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/ex_13082024/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_17082024/Lab028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_17082024/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_17082024/Lab030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_17082024/Lab031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_17082024/Lab032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_17082024/Lab033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_17082024/Lab034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SRC/ex_17082024/Lab035.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_10082024/Lab003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_10082024/Lab004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_10082024/Lab005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_10082024/Lab006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_10082024/Lab007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_10082024/Lab008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_10082024/Lab009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_10082024/Lab010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab011.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_10082024/Lab011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_10082024/Lab012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SRC/ex_08082024/Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_10082024/Lab013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SRC/ex_17082024/Lab027.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/ex_17082024/Lab027.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +77,22 @@
     "Python.Lab017.executor": "Run",
     "Python.Lab018.executor": "Run",
     "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab021.executor": "Run",
+    "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
+    "Python.Lab024.executor": "Run",
+    "Python.Lab025.executor": "Run",
+    "Python.Lab026.executor": "Run",
+    "Python.Lab027.executor": "Run",
+    "Python.Lab028.executor": "Run",
+    "Python.Lab029.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Lab031.executor": "Run",
+    "Python.Lab032.executor": "Run",
+    "Python.Lab033.executor": "Run",
+    "Python.Lab034.executor": "Run",
+    "Python.Lab035.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
@@ -168,7 +176,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725043527660</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="File Added">
+      <option name="closed" value="true" />
+      <created>1725131087895</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725131087895</updated>
+    </task>
+    <task id="LOCAL-00009" summary="File Added">
+      <option name="closed" value="true" />
+      <created>1725210516861</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725210516861</updated>
+    </task>
+    <task id="LOCAL-00010" summary="File Added">
+      <option name="closed" value="true" />
+      <created>1725213904558</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725213904558</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
